@@ -1,7 +1,7 @@
 # Tip Time app
 
 
-(screen of app)[./images/app_screen1.png]
+[screen of app](./images/app_screen1.png)
 
 ---
 
